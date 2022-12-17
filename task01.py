@@ -12,4 +12,4 @@ if day_week == 6 or day_week == 7:
 elif 1 <= day_week <= 5:
     print(f'День недели {day_week} будни')
 else:
-    print('Ведено неверное число')
+    print('Введено неверное число')
